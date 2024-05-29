@@ -11,7 +11,27 @@
 
 MeterSphere 是新一代的测试管理和接口测试工具，让测试工作更简单、更高效，不再成为持续交付的瓶颈。
 
-![iShot_2024-05-29_18 01 32](https://github.com/metersphere/.github/assets/23045261/f554b64b-7233-4cfe-a9a0-e2d9f2d5ba55)
+-   **测试管理**: 从测试用例管理，到测试计划执行、缺陷管理、测试报告生成，具有远超禅道和 TestLink 的使用体验；
+-   **接口测试**: 集 Postman 的易用与 JMeter 的灵活于一体，接口定义、接口调试、接口 Mock、场景自动化、接口报告，你想要的都有。
+
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tr>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/metersphere/metersphere/assets/23045261/decee1a8-65d3-41ae-bab4-fdd8364c54ce" alt="MeterSphere Demo1" /></td>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/metersphere/metersphere/assets/23045261/5121e81b-65e3-4ab6-b2be-47c501064195" alt="MeterSphere Demo2" /></td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/metersphere/metersphere/assets/23045261/34df2cfc-0698-4ab2-b7e0-5022dc5b1eaa" alt="MeterSphere Demo3" /></td>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/metersphere/metersphere/assets/23045261/5c5781aa-ad1b-42e0-b32a-1e08d591d092" alt="MeterSphere Demo4" /></td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/metersphere/metersphere/assets/23045261/c6308825-9484-4f84-a725-b88a26cbf35c" alt="MeterSphere Demo5" /></td>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/metersphere/metersphere/assets/23045261/d05f9bb7-f814-4f42-889e-e5709d8b7390" alt="MeterSphere Demo6" /></td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/metersphere/metersphere/assets/23045261/d02de0a6-fb30-4169-8aaf-815bcf379214" alt="MeterSphere Demo7" /></td>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/metersphere/metersphere/assets/23045261/3753ff34-4783-498d-a0a0-e2605b219d39" alt="MeterSphere Demo8" /></td>
+  </tr>
+</table>
 
 ## 相关链接
 
