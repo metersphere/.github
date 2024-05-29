@@ -1,5 +1,5 @@
 <p align="center"><a href="https://metersphere.io"><img src="https://metersphere.oss-cn-hangzhou.aliyuncs.com/img/MeterSphere-%E7%B4%AB%E8%89%B2.png" alt="MeterSphere" width="300" /></a></p>
-<h3 align="center">一站式开源持续测试平台</h3>
+<h3 align="center">现代化、开源的测试管理和接口测试工具</h3>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/github/license/metersphere/metersphere" alt="License: GPLv3"></a>
@@ -9,7 +9,8 @@
 
 <hr/>
 
-MeterSphere 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、UI 测试和性能测试等功能，全面兼容 JMeter、Selenium 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付，推动中国测试行业整体效率的提升。
+MeterSphere 是新一代的测试管理和接口测试工具，让测试工作更简单、更高效，不再成为持续交付的瓶颈。
+
 
 ## 相关链接
 
@@ -20,7 +21,9 @@ MeterSphere 是一站式开源持续测试平台, 涵盖测试跟踪、接口测
 
 ## 飞致云旗下其他开源组织
 
-- [JumpServer](https://github.com/jumpserver) - 广受欢迎的开源堡垒机
-- [DataEase](https://github.com/dataease/) - 人人可用的数据可视化分析工具
-- [1Panel](https://github.com/1panel-dev/) - 现代化、开源的 Linux 服务器运维管理面板
-- [Halo](https://github.com/halo-dev/) - 强大易用的开源建站工具
+- [1Panel](https://github.com/1panel-dev/1panel/) - 现代化、开源的 Linux 服务器运维管理面板
+- [JumpServer](https://github.com/jumpserver/jumpserver/) - 广受欢迎的开源堡垒机
+- [DataEase](https://github.com/dataease/dataease/) - 人人可用的开源数据可视化分析工具
+- [MaxKB](https://github.com/1panel-dev/maxkb) - 基于 LLM 大语言模型的知识库问答系统
+- [Halo](https://github.com/halo-dev/halo/) - 强大易用的开源建站工具
+
