@@ -11,7 +11,7 @@
 
 MeterSphere 是新一代的测试管理和接口测试工具，让测试工作更简单、更高效，不再成为持续交付的瓶颈。
 
-![iShot_2024-05-29_17 56 04](https://github.com/metersphere/.github/assets/23045261/4da293c1-8ea0-468e-ad45-1f84e8975d87)
+![iShot_2024-05-29_18 01 32](https://github.com/metersphere/.github/assets/23045261/f554b64b-7233-4cfe-a9a0-e2d9f2d5ba55)
 
 ## 相关链接
 
